@@ -20,7 +20,7 @@
 
 4- Wait 15 Min's for video comments scrapping
 
-5- ### Note : In Data Cleaning & Preprocessing Step i mentioned nltk.download() which Will take time for Proper Cleaning It took my half hour time, But You can Comment it. 
+### Note : In Data Cleaning & Preprocessing Step i mentioned nltk.download() which Will take time for Proper Cleaning It took my half hour time, But You can Comment it. 
 
 6- In Machine Learning Model Implementation step I used All specific Models and Tried One by one. Out of Random Forest Extremely Performed Well. 
 
