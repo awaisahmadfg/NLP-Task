@@ -1,7 +1,9 @@
 # NLP-Task
 
 ## STEPS
+
 1- Download ChromeDriver According to your Google Chrome Version and extract it
+
 2- Intall Libraries :
     - pip3 install selenium
     - pip3 install Numpy
