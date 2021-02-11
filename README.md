@@ -14,7 +14,7 @@
     - pip3 install Scikit Learn
     - pip3 install nltk
 
-3- Download this Jupyter Notebook and Execute 1st Cell
+3- Download this Jupyter Notebook and Execute Cell by Cell
 
 4- In Algorthm, Mention your chromeDriver Path. Also If you want to try Other Video Link, You can. I used this Youtube video Link : https://www.youtube.com/watch?v=kuhhT_cBtFU&t=2s   
 
